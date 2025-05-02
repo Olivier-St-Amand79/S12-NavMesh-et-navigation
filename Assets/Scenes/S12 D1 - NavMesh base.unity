@@ -6023,7 +6023,7 @@ GameObject:
   - component: {fileID: 1880185573}
   - component: {fileID: 1880185572}
   - component: {fileID: 1880185571}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
